@@ -22,3 +22,8 @@
 		<td><a href="https://www.twitch.tv/OsaruKun07" target="_blank">@OsaruKun07</a></td>
 	</tr>
 </table>
+
+## 企画リスト
+|企画名|Wiki|YouTube 再生リスト|
+|:-:|:-:|:-:|
+||Comming Soon!||
