@@ -89,6 +89,10 @@ ul > span.list-title {
 	gap: 0.5rem;
 }
 #site-main {
+	width: 90dvw;
+	width: 90vw;
+	max-width: 750px;
+	margin: auto;
 	padding: 0.75rem;
 	white-space: nowrap;
 	overflow-y: scroll;
