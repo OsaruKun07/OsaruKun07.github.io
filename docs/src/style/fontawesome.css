@@ -1,0 +1,18 @@
+.fa-youtube::before {
+	color: #ff0000;
+}
+.fa-youtube::before:hover {
+	border-bottom-color: transparent;
+}
+.fa-twitch::before {
+	color: #6441a5;
+}
+.fa-twitch::before:hover {
+	border-bottom-color: transparent;
+}
+.fa-twitter::before {
+	color: #1da1f2;
+}
+.fa-twitter::before:hover {
+	border-bottom-color: transparent;
+}
